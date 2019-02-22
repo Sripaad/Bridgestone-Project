@@ -1,12 +1,12 @@
 # Emperical Defect Detector (EDD)
 Tyre visual inspection project for the company Bridgestone as apart of Smart India Hackathon 2019
 ## Data folder contains
-  		X-Ray Image 
-          Defective
-          Non-Defective
-		RGB Image
-		  Defective
-          Non-Defective
+	X-Ray Image 
+		Defective
+		Non-Defective
+	RGB Image
+		Defective
+		Non-Defective
 ## Pre-processing 
     Types of defects
     Defect specification dataset
