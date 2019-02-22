@@ -21,3 +21,6 @@ Tyre visual inspection project for the company Bridgestone as apart of Smart Ind
 	A login page and a dashboard
 ## Report generation
 @venkatraman needs to help us figure this out
+
+## Docker
+	The Dockerfile will be ready and image will be created as it is implimented in Django 
