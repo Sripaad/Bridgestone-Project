@@ -13,7 +13,7 @@ Tyre visual inspection project for the company Bridgestone as apart of Smart Ind
 ## Machine Learing Model 
 	Since time is a paramount criteria the previously decided AlexNet Architecture may or may not be used
 ## RESTful
-	To make this application restful Django is being used.
+	using Flask_RESTful
 ## OpenCV
 	A stream of 25 fps is the input for our machine learning model.
 ## UI/UX 
