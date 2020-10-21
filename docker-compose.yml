@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  classifier-service:
+    build: .
+    command: python3 tire_inspection/manage.py runserver 127.0.0.0:8000 #build path
+    volumes:
+      - .:/code
+    ports:
+      - "8000:8000"
